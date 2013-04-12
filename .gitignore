@@ -1,0 +1,16 @@
+*
+!*.m
+!*.hex
+!.gitignore
+!*.md
+!*.v
+!*.qpf
+!*.tcl
+!*.bat
+!*.qsf
+!*.pin
+!*.sof
+!*.jic
+!*.cdf
+!*.cof
+!*/
